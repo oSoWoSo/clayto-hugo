@@ -4,7 +4,8 @@ title = "clayto"
 
 email = "mwc@clayto.com"
 
-theme = "hugo_theme_pickles"
+theme = "clayto-hugo"
+# theme = "hugo_theme_pickles"
 # theme = "palebluepixel"
 
 # relativeURLs = true
